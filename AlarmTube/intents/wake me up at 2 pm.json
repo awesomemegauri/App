@@ -1,0 +1,39 @@
+{
+  "id": "11847349-a623-4553-a328-676f1336b8f1",
+  "name": "wake me up at 2 pm",
+  "auto": true,
+  "contexts": [],
+  "templates": [
+    "get me up at noon with mj",
+    "please get me up at 6am with Madonna",
+    "i want to get up with Lady Gaga at noon",
+    "please get me up at noon",
+    "wake me up with eminem",
+    "wake me up at 6 am",
+    "get me up at noon",
+    "please get me up with mj at noon"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "wakwmeup",
+      "affectedContexts": [],
+      "parameters": [],
+      "speech": [
+        "okay. at your service sir",
+        "yes. why not?which video would you like to wake up with?",
+        "i have set AlramTube sir."
+      ]
+    }
+  ],
+  "state": "LEARNED",
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "assistantCommand": {
+    "urlCommand": "",
+    "doCommand": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "c256df32-a361-46b6-ac49-80ba988858b6",
+  "name": "Video",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "michael jacson",
+      "synonyms": [
+        "miche",
+        "mj",
+        "Michael",
+        "the king of pop"
+      ]
+    },
+    {
+      "value": "Lady Gaga",
+      "synonyms": [
+        "Lady Gaga",
+        "Gaga"
+      ]
+    },
+    {
+      "value": "Madonna",
+      "synonyms": [
+        "Madonna"
+      ]
+    },
+    {
+      "value": "Eminem",
+      "synonyms": [
+        "Eminem",
+        "Slim shady"
+      ]
+    }
+  ],
+  "isEnum": false
+}
